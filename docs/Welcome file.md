@@ -4,6 +4,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 This is a [test](other/Test.md).
 
+What else
 
 # Files
 
@@ -144,6 +145,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNjA4NzU3LC05MDUyNTcxOTQsMTM5MD
-Q5NjU5OV19
+eyJoaXN0b3J5IjpbLTU3MzQwMjI2NiwtOTA1MjU3MTk0LDEzOT
+A0OTY1OTldfQ==
 -->
